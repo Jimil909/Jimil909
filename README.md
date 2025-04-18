@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdpYWdxdTk4cXp1ZWJmbmRkNzBrcms2ZWxxeW85N3Y2OGltaXFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"  />
+
+###
+
 <p align="left">🌟 I’m passionate about building pixel-perfect, responsive, and accessible web interfaces.  <br>⚡ I specialize in HTML, CSS, Tailwind CSS, Bootstrap, and React with a strong focus on user experience.  <br>🎯 Currently working toward becoming a Fullstack UI Engineer using AI + modern dev tools.</p>
 
 ###
@@ -50,10 +54,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdpYWdxdTk4cXp1ZWJmbmRkNzBrcms2ZWxxeW85N3Y2OGltaXFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jimil-patel-381700282/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -75,9 +75,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jimil909/Jimil909/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jimil909/Jimil909/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jimil909/Jimil909/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
