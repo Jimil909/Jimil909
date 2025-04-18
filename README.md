@@ -74,6 +74,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jimil909/Jimil909/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jimil909/Jimil909/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jimil909/Jimil909/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="file:///C:/Users/patel/Downloads/pacman-contributions.svg">
+</picture>
 
 ###
